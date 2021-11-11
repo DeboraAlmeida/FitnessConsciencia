@@ -1,3 +1,5 @@
+/*tudo em px será transformado em responsivo logo logo...*/
+
 * {
   box-sizing: border-box;
 }
@@ -5,4 +7,20 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  height: 83px;
+  border-bottom: 1px solid #61ce70; /*ideia decidir se é melhor com ou sem borda*/
+}
+
+header img {
+  margin-top: 8px;
+}
+
+.container {
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
 }
