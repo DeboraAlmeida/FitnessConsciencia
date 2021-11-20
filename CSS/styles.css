@@ -11,7 +11,7 @@ body {
 
 header {
   height: 83px;
-  border-bottom: 1px solid #61ce70; /*ideia decidir se é melhor com ou sem borda*/
+  /*border-bottom: 1px solid #61ce70; /*ideia decidir se é melhor com ou sem borda*/
 }
 
 header img {
@@ -26,10 +26,24 @@ header img {
 }
 
 #imagens {
-  padding: 40px 0;
+  padding: 10px 0;
 }
 
-.imagens > img {
+#imagens h2 {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  margin-top: 10px;
+  color: #0c0d0e;
+}
+
+.titulo {
+  margin-bottom: 10px;
+  font-style: italic;
+  font-size: 32px;
+}
+
+#imagens > img {
   width: 360px;
   height: 350px;
 }
