@@ -24,3 +24,12 @@ header img {
   padding-right: 15px;
   margin: 0 auto;
 }
+
+#imagens {
+  padding: 40px 0;
+}
+
+.imagens > img {
+  width: 360px;
+  height: 350px;
+}
