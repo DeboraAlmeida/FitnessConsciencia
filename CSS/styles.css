@@ -52,6 +52,16 @@ header img {
   height: 350px;
 }
 
-.conhecimento img {
+.coluna1 {
   float: left;
+  width: 50%;
+}
+
+.coluna2 {
+  float: right;
+  width: 50%;
+}
+
+.clearfix {
+  clear: both;
 }
