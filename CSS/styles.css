@@ -65,3 +65,9 @@ header img {
 .clearfix {
   clear: both;
 }
+
+footer {
+  text-align: center;
+  line-height: 2.5;
+  background-color: #61ce70;
+}
