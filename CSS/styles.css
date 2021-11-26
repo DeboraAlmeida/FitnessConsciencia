@@ -66,6 +66,12 @@ header img {
   clear: both;
 }
 
+.formulario {
+  border: 1px solid #61ce70;
+  border-radius: 15%;
+  background-color: #cfcfcf;
+}
+
 footer {
   text-align: center;
   line-height: 2.5;
