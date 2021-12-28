@@ -86,6 +86,13 @@ header img {
   background-color: #cfcfcf;
 }
 
+.botao {
+  padding: 12px 16px;
+  background-color: #61ce70;
+  color: #fff;
+  text-decoration: none;
+}
+
 footer {
   text-align: center;
   line-height: 2.5;
