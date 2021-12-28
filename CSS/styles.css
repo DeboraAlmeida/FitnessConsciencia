@@ -87,10 +87,16 @@ header img {
 }
 
 .botao {
+  display: inline-block;
   padding: 12px 16px;
   background-color: #61ce70;
   color: #fff;
   text-decoration: none;
+}
+
+.botao:hover,
+.botao:focus {
+  background-color: #78909c;
 }
 
 footer {
